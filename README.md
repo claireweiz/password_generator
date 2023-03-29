@@ -1,6 +1,6 @@
 <h1> Password Generator </h1>
 
-* A simple random password generator, with customised conditions for users
+* A simple random password generator, with customised conditions for use
 * Developed with python3 and tkinter
 
 <h2>Import</h2>
