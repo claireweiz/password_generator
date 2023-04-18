@@ -14,6 +14,6 @@ This project took me 3 days to complete. The logic of password generation was fi
 
 Originally I planned to make this password generator as a web application, however, python frameworks or widgets (e.g. Django, Flask, PyWebIO, Pywebview, Streamlit) seems more like to publish data to websites, not sure how to collect data back for python for running the results. 
 
-A popular option is using HTML and CSS to construct web UI, and sync the action by Javascript to run the random generation. 
+A popular option is using HTML and CSS to construct web UI, and sync the action by Javascript to run the random generation. But my focus is python, so at the end I still use tkinter to present.
 
 I want to learn more about python web applications, how to build the server, store the data, and make the data sync from front-end to back-end.
