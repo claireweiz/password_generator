@@ -1,7 +1,7 @@
 <h1> Password Generator 🔑 </h1>
 
 <h2>Description</h2>
-A simple random password generator, with multiple options to create the password combination as needed
+A simple random password generator using Object-oriented programming concepts, with multiple options to create the password combination as needed
 
 <h2>Skills & Tools</h2>
 
