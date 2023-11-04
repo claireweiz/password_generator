@@ -1,19 +1,16 @@
 <h1> Password Generator 🔑 </h1>
 
 <h2>Description</h2>
-A simple random password generator using Object-oriented programming concepts, with multiple options to create the password combination as needed
+A pseudo-random password generator using Object-Oriented Programming concepts. The user has the option to select a combination of letters, numbers and symbols to generate the password.
 
 <h2>Skills & Tools</h2>
 
-* python
-* Tkinter
-* Few interesting modules: messagebox, pyperclip, string
+* Python
+* Tkinter, messagebox, pyperclip, string
 
-<h2>Thoughts</h2>
-This project took me 3 days to complete. The logic of password generation was finished real quick, however, most of the time I was dealing with the interface.
+<h2>Brief Notes</h2>
+This project took me three days to complete. I was able to finish the code for the password generator very quickly. However, I spent most of the time working on the interface.
 
-Originally I planned to make this password generator as a web application, however, python frameworks or widgets (e.g. Django, Flask, PyWebIO, Pywebview, Streamlit) seems more like to publish data to websites, not sure how to collect data back for python for running the results. 
+When researching whether to host the password generator on web pages or a local GUI, I chose to use a GUI. I felt it was sufficient for my goal to create a user-friendly interface, and I had enough knowledge to achieve this. Whilst working on the project, I found it very enjoyable to configure the interface to the layout I wanted.
 
-A popular option is using HTML and CSS to construct web UI, and sync the action by Javascript to run the random generation. But my focus is python, so at the end I still use tkinter to present.
-
-I want to learn more about python web applications, how to build the server, store the data, and make the data sync from front-end to back-end.
+Going forward, I want to keep learning about how to create python web applications, how to build servers, store data, and make the data sync between the front and back end.
